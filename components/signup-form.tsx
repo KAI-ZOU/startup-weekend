@@ -47,7 +47,7 @@ export function SignUpForm() {
       <div className="mx-auto max-w-4xl">
         <div className="rounded-3xl bg-gradient-to-br from-primary/10 via-accent/10 to-secondary/10 p-8 lg:p-12 border">
           <div className="text-center space-y-4 mb-8">
-            <h2 className="text-4xl font-bold tracking-tight text-balance">Join the Waitlist</h2>
+            <h2 className="text-4xl font-bold tracking-tight text-balance">Express your interest!</h2>
             <p className="text-xl text-muted-foreground text-pretty">
               Be the first to experience precision hair color matching
             </p>
